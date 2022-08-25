@@ -6,7 +6,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 const commander_1 = __importDefault(require("commander"));
-const flutter_page_generate_1 = __importDefault(require("./flutter-page-generate"));
+const flutter_page_generate_1 = __importDefault(require("../lib/flutter-page-generate"));
 
 /**
  * generate flutter page
