@@ -1,0 +1,14 @@
+{
+  "name": "fpg",
+  "dependencies": {
+    "commander": "^4.0.1",
+    "chalk": "^3.0.0",
+    "ora": "^4.0.3",
+    "fs-extra": "^8.1.0"
+  },
+  "license": "ISC",
+  "files": [
+    "index.js",
+    "lib/"
+  ]
+}
